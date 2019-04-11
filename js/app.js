@@ -74,7 +74,7 @@ Player.prototype.update = function (dt) {
 Player.prototype.handleInput = function (keyDirection) {
     
     //
-    if (keyDirection == "left" && this.x >= 100) {
+    if (keyDirection == "left" && this.x >= 1) {
         this.x -= 100;
     }
     if (keyDirection == "up" && this.y > 1) {
@@ -95,7 +95,7 @@ Player.prototype.handleInput = function (keyDirection) {
             this.y = 470;
             //Increase the score by 10
             score.innerHTML = Number(score.innerHTML) + 10;
-        }, 500);
+        }, 100);
     };
 };
 
