@@ -1,6 +1,6 @@
 # Classic Arcade Game Project
 
-This is a classic arcade game that you have a character and you can move it with (LIFT, UP, RIGHT and DOWN) arrows to avoid collision with the enemy -bugs- and reach the top of the bord "water" your goal is to get the best score you can.
+This is a classic arcade game that you have a character and you can move it with (LIFT, UP, RIGHT and DOWN) arrows to avoid collision with the enemy -bugs- and reach the top of the board "water" your goal is to get the best score you can.
 
 ## Disclaimer
 
