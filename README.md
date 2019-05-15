@@ -4,7 +4,7 @@ This is a classic arcade game that you have a character and you can move it with
 
 ## Disclaimer
 
-- The HTML, app.js, resources.js and engine.js files are downloaded from Udacity at Front End Course I made some changes on these files to make this project work.
+* The HTML, app.js, resources.js and engine.js files are downloaded from Udacity at Front End Course I made some changes on these files to make this project work.
 
 ## Getting Started
 
